@@ -1,5 +1,4 @@
-# darcula-forest-zed
-Darcula Forest Zed Theme
+# Darcula Forest Zed Theme
 
 [Main repo](https://github.com/oryanm/darcula-forest)
 
